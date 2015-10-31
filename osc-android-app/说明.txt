@@ -1,0 +1,5 @@
+1.进行butterknife注解设置
+
+2.网络请求分为：业务层、业务逻辑层、业务无关层
+
+3.使用框架：AsynHttpClient、kjframe

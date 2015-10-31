@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" >
+<!-- http://www.cnblogs.com/bavariama/archive/2013/01/29/2881225.html -->
+    <translate
+        android:duration="200"
+        android:toYDelta="0%"
+        android:fillAfter="true"
+        android:fromYDelta="100%p" />
+
+</set>
